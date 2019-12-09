@@ -19,11 +19,9 @@ public class LombokExample {
 
         this.setName("FooBar");   // lombok setter for String
 
-        this.setMembers();   //NullPointerException
+        List<Person> personList = null;
+        this.setMembers(personList);   //NullPointerException
 
         System.out.println( this.toString() ); // Will print all properties as key-value, except "someExcludedField"
-
-
     }
-
 }
