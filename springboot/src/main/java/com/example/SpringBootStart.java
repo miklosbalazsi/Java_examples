@@ -28,7 +28,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import lombok.extern.slf4j.Slf4j;
 
-
 @SpringBootApplication
 @RestController
 @Slf4j
@@ -45,6 +44,5 @@ public class SpringBootStart {
     public String index(){
         return "Hello World";
     }
-
 
 }

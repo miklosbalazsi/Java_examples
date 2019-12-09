@@ -19,3 +19,16 @@ number of project annotations you introduce in your code.
 LOMBOK ANNOTATIONS
 ---
 
+####@GETTER AND @SETTER
+The @Getter and @Setter annotations generate a getter and setter for a field, respectively. 
+The getters generated correctly follow convention for boolean properties, resulting in an isFoo getter method name instead 
+of getFoo for any boolean field foo.
+
+
+####@NONNULL
+The @NonNull annotation is used to indicate the need for a fast-fail null check on the corresponding member. 
+When placed on a field for which Lombok is generating a setter method, 
+a null check will be generated that will result in a NullPointerException should a null value be provided.
+
+####@TOSTRING
+This annotation generates an implementation of the toString method. 
