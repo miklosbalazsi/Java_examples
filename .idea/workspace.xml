@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1feeed70-60f3-4862-ae1a-181c0b8d7b7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/generics/generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/generics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generics/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577614468967</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add generics examples">
+      <created>1577617064102</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577617064102</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
