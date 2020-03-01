@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBeans/JavaBeans.iml" filepath="$PROJECT_DIR$/JavaBeans/JavaBeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_examples.iml" filepath="$PROJECT_DIR$/.idea/Java_examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/lombok/lombok.iml" filepath="$PROJECT_DIR$/lombok/lombok.iml" />

@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1feeed70-60f3-4862-ae1a-181c0b8d7b7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/GenericsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/MultiBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generics/src/test/java/GenericsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics/generics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/generics/generics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/generics/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/generics/src/main/java/com/example/generics/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +29,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1UiFPFE5EOh3qZYaipSIPKV9bex" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/generics/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -57,18 +47,6 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn generics" />
-    </option>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -152,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577619224290</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add generics examples">
+      <created>1577737086032</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577737086032</updated>
+    </task>
+    <task id="LOCAL-00012" summary="remove target directory">
+      <created>1583063907120</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583063907120</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +164,21 @@
     <MESSAGE value="init" />
     <MESSAGE value="add lombok examples" />
     <MESSAGE value="add generics examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add generics examples" />
+    <MESSAGE value="remove target directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove target directory" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="94" width="559" height="713" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583065262045">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state x="515" y="94" width="559" height="713" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.28.1600.838@0.28.1600.838" timestamp="1583065262045" />
+    <state x="122" y="28" width="1345" height="838" key="new project wizard" timestamp="1583065334377">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state x="122" y="28" width="1345" height="838" key="new project wizard/0.28.1600.838@0.28.1600.838" timestamp="1583065334377" />
+    <state x="463" y="187" key="search.everywhere.popup" timestamp="1583064403817">
+      <screen x="0" y="28" width="1600" height="838" />
+    </state>
+    <state x="463" y="187" key="search.everywhere.popup/0.28.1600.838@0.28.1600.838" timestamp="1583064403817" />
   </component>
 </project>
