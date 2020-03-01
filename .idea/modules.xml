@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaBeans/JavaBeans.iml" filepath="$PROJECT_DIR$/JavaBeans/JavaBeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_examples.iml" filepath="$PROJECT_DIR$/.idea/Java_examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenide/Selenide.iml" filepath="$PROJECT_DIR$/Selenide/Selenide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenium/Selenium.iml" filepath="$PROJECT_DIR$/Selenium/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenoid/Selenoid.iml" filepath="$PROJECT_DIR$/Selenoid/Selenoid.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/lombok/lombok.iml" filepath="$PROJECT_DIR$/lombok/lombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot/spring-boot.iml" filepath="$PROJECT_DIR$/springboot/spring-boot.iml" />

@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/lombok/pom.xml" />
         <option value="$PROJECT_DIR$/generics/pom.xml" />
         <option value="$PROJECT_DIR$/JavaBeans/pom.xml" />
+        <option value="$PROJECT_DIR$/Selenium/pom.xml" />
+        <option value="$PROJECT_DIR$/Selenide/pom.xml" />
+        <option value="$PROJECT_DIR$/Selenoid/pom.xml" />
       </list>
     </option>
   </component>

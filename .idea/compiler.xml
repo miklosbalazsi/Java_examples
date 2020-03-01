@@ -7,16 +7,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lombok" />
         <module name="JavaBeans" />
-        <module name="generics" />
+        <module name="Selenoid" />
         <module name="spring-boot" />
+        <module name="Selenide" />
+        <module name="generics" />
+        <module name="lombok" />
+        <module name="Selenium" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="generics" target="1.8" />
       <module name="JavaBeans" target="1.5" />
       <module name="lombok" target="1.5" />
+      <module name="Selenide" target="1.5" />
+      <module name="Selenium" target="1.5" />
+      <module name="Selenoid" target="1.5" />
       <module name="spring-boot" target="1.5" />
     </bytecodeTargetLevel>
   </component>
