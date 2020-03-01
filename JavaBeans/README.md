@@ -1,1 +1,1 @@
-JavaBeans
+[JavaBeans](https://docs.oracle.com/javase/tutorial/javabeans/)
