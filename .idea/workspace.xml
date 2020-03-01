@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1feeed70-60f3-4862-ae1a-181c0b8d7b7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Selenide/Selenide.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenide/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBeans/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBeans/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583065426379</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add JavaBeans documentation link">
+      <created>1583066534138</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1583066534139</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update pom.xmls">
+      <created>1583066715673</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1583066715673</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,28 +193,30 @@
     <MESSAGE value="add generics examples" />
     <MESSAGE value="remove target directory" />
     <MESSAGE value="Add JavaBeans" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add JavaBeans" />
+    <MESSAGE value="Add JavaBeans documentation link" />
+    <MESSAGE value="update pom.xmls" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pom.xmls" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="515" y="94" width="559" height="713" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583065262045">
+    <state x="515" y="94" width="559" height="713" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583066979335">
       <screen x="0" y="28" width="1600" height="838" />
     </state>
-    <state x="515" y="94" width="559" height="713" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.28.1600.838@0.28.1600.838" timestamp="1583065262045" />
-    <state x="413" y="28" width="763" height="838" key="CommitChangelistDialog2" timestamp="1583066533952">
+    <state x="515" y="94" width="559" height="713" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.28.1600.838@0.28.1600.838" timestamp="1583066979335" />
+    <state x="413" y="28" width="763" height="838" key="CommitChangelistDialog2" timestamp="1583066715489">
       <screen x="0" y="28" width="1600" height="838" />
     </state>
-    <state x="413" y="28" width="763" height="838" key="CommitChangelistDialog2/0.28.1600.838@0.28.1600.838" timestamp="1583066533952" />
-    <state x="395" y="183" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583066536411">
+    <state x="413" y="28" width="763" height="838" key="CommitChangelistDialog2/0.28.1600.838@0.28.1600.838" timestamp="1583066715489" />
+    <state x="395" y="183" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583066717324">
       <screen x="0" y="28" width="1600" height="838" />
     </state>
-    <state x="395" y="183" width="800" height="535" key="Vcs.Push.Dialog.v2/0.28.1600.838@0.28.1600.838" timestamp="1583066536411" />
+    <state x="395" y="183" width="800" height="535" key="Vcs.Push.Dialog.v2/0.28.1600.838@0.28.1600.838" timestamp="1583066717324" />
     <state x="122" y="28" width="1345" height="838" key="new project wizard" timestamp="1583066582349">
       <screen x="0" y="28" width="1600" height="838" />
     </state>
     <state x="122" y="28" width="1345" height="838" key="new project wizard/0.28.1600.838@0.28.1600.838" timestamp="1583066582349" />
-    <state x="463" y="187" key="search.everywhere.popup" timestamp="1583064403817">
+    <state x="463" y="187" width="672" height="678" key="search.everywhere.popup" timestamp="1583066820171">
       <screen x="0" y="28" width="1600" height="838" />
     </state>
-    <state x="463" y="187" key="search.everywhere.popup/0.28.1600.838@0.28.1600.838" timestamp="1583064403817" />
+    <state x="463" y="187" width="672" height="678" key="search.everywhere.popup/0.28.1600.838@0.28.1600.838" timestamp="1583066820171" />
   </component>
 </project>
